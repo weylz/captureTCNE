@@ -89,7 +89,7 @@ do
         m ) num_min="$OPTARG"                  ;;
         c ) cut_off="$OPTARG"                  ;;
         v ) scriptInfo version && exit $?      ;;
-        * ) scriptInfo errorExcept && exit $?  ;; 
+        * ) scriptInfo errorExcept && exit $?  ;;
     esac
 done
 

@@ -27,8 +27,8 @@ with open(f'TCNE.over{num_cutoff}.matrix', 'w') as rlt:
             f[i] = f[i].strip().split('\t')
             if 'Y' not in f[i][0]:
                 count_nozero = 0
-                for j in range(4, num_sample + 4):           
-                    if f[i][j] == ".": 
+                for j in range(4, num_sample + 4):
+                    if f[i][j] == ".":
                         break
                     elif float(f[i][j]) > cf:
                         count_nozero += 1

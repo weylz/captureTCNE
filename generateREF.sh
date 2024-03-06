@@ -10,7 +10,12 @@ input_directory=$1
 reference_directory=$2
 suffix=$3
 
-ref_gtf="/mnt/disk2/zhuwy/reference/human_GRCh37/gencode.v19.annotation.gtf"
+#Exit if file already exists
+[ -e ../filtered_CNEs_BRCA.bed ] && echo "File filtered_CNEs_BRCA.bed already exists. Exit." && exit $?
+
+wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_19/gencode.v19.annotation.gtf.gz
+unzip gencode.v19.annotation.gtf.gz
+ref_gtf="$(pwd)/gencode.v19.annotation.gtf"
 
 list=();for filename in $(ls $input_directory);do list+=($filename); done;num_sample=${#list[*]}
 
