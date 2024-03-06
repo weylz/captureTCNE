@@ -18,7 +18,7 @@
 3. Python 3.9.16;
 4. stringTie 2.2.0;
 5. BEDTools suite 2.30.0;
-6. R library - fitdistrplus_1.1-11;
+6. R library - fitdistrplus 1.1-8;
 7. Jim Kent's executable programms: http://hgdownload.cse.ucsc.edu/admin/exe/;
 </font>
 
