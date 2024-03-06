@@ -34,16 +34,16 @@ $ export PATH=$(pwd):$PATH
 $ captureTCNE.sh -h
 
 # Usage:    captureTCNE.sh -g <...> -r <...> [-m <...>] [-c <...>] [-v] [-h]
-
+#
 #     Note: -g and -r are required.
-
+#
 # Requirement:
 #     - Python 3.6 or later;
 #     - R 4.0 or later (R library - fitdistrplus);
 #     - BEDTools suite;
 #     - stringTie;
 #     - Jim Kent's executable programms: http://hgdownload.cse.ucsc.edu/admin/exe/.
-
+#
 # Options:
 #     -h    Print this help menu.
 #     -g    Label for sample group. The name of the sample group label (the name o
@@ -68,6 +68,7 @@ $ generateREF.sh $path_to_bam $directory_workspace/REFERENCE BRCA
 $ cd $directory_workspace
 $ captureTCNE.sh -g BRCA -r $directory_workspace/REFERENCE/filtered_CNEs_BRCA.bed -m 1 -c 0.05
 # captureTCNE.sh -g $group_name -r $candidate_TCNE -m $min_Num -c $expr_threshold
+
 # The final report can be accessed in the project folder (./BRCA/TCNE.BRCA.bed).
 ```
 
