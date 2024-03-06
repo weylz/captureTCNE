@@ -14,11 +14,11 @@
 <font face = "Times New Roman" size = 4> ***To use the current release*** </font>
 <font face = "Times New Roman" size = 3>
 1. Linux (such as Ubuntu 22.04.3 LTS);
-2. R 4.2.3;
-3. Python 3.9.16;
-4. stringTie 2.2.0;
-5. BEDTools suite 2.30.0;
-6. R library - fitdistrplus 1.1-8;
+2. R 4.0 or later;
+3. R library - fitdistrplus 1.1-8;
+4. Python 3.6 or later;
+5. stringTie 2.2.0;
+6. BEDTools suite 2.30.0;
 7. Jim Kent's executable programms: http://hgdownload.cse.ucsc.edu/admin/exe/;
 </font>
 
@@ -39,9 +39,10 @@ $ captureTCNE.sh -h
 
 # Requirement:
 #     - Python 3.6 or later;
-#     - R 4.0 or later (library fitdistrplus 1.1-8);
-#     - BEDTools suite v2.30.0;
-#     - Jim Kent's executable programms: http://hgdownload.cse.ucsc.edu/admin/exe/
+#     - R 4.0 or later (R library - fitdistrplus);
+#     - BEDTools suite;
+#     - stringTie;
+#     - Jim Kent's executable programms: http://hgdownload.cse.ucsc.edu/admin/exe/.
 
 # Options:
 #     -h    Print this help menu.

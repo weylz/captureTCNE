@@ -27,8 +27,9 @@ Usage:    ${0##*\/} -g <...> -r <...> [-m <...>] [-c <...>] [-v] [-h]
 
 Requirement:
     - Python 3.6 or later;
-    - R 4.0 or later (library fitdistrplus 1.1-8);
-    - BEDTools suite v2.30.0;
+    - R 4.0 or later (R library - fitdistrplus);
+    - BEDTools suite;
+    - stringTie;
     - Jim Kent's executable programms: http://hgdownload.cse.ucsc.edu/admin/exe/.
 
 Options:
