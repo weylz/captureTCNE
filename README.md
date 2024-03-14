@@ -1,4 +1,4 @@
-![captureTCNE overview](OVERVIEW.png)
+![The workflow of captureTCNE](workflow.png)
 
 ----------
 - <font face = "Times New Roman" size = 4> ***[captureTCNE](#capturetcne)*** </font>
