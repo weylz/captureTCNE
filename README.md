@@ -8,7 +8,7 @@
 ----------
 
 # captureTCNE
-<font face = "Times New Roman" size = 5> **A tailored identification pipeline to depict the landscape of transcribed conversed non-coding elements (TCNEs)** </font>
+<font face = "Times New Roman" size = 5> **A tailored identification pipeline to depict the landscape of transcribed conserved non-coding elements (TCNEs)** </font>
 
 ## Requirement
 <font face = "Times New Roman" size = 4> ***To use the current release*** </font>
@@ -73,6 +73,8 @@ $ captureTCNE.sh -g BRCA -r $directory_workspace/REFERENCE/filtered_CNEs_BRCA.be
 ```
 
 ## Citation
-<font face = "Times New Roman" size = 3> [Wenyong Zhu et al. Emerging functional and mechanistic paradigms of transcribed non-coding elements in breast cancer. *Under review*.](https://www.researchgate.net/profile/Wenyong-Zhu/publications) </font>
+<font face = "Times New Roman" size = 3> [Wenyong Zhu et al. Emerging regulatory and mechanistic paradigms of transcribed conserved non-coding elements in breast cancer. *Under review*.](https://www.researchgate.net/profile/Wenyong-Zhu/publications) **Watch this space!** </font>
+
+
 
 <font face = "Times New Roman" size = 2> ***Copyright © 2024 Wenyong Zhu et al. All Rights Reserved.*** </font>
