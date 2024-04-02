@@ -8,7 +8,7 @@
 ----------
 
 # captureTCNE
-<font face = "Times New Roman" size = 5> **A tailored identification pipeline to depict the landscape of transcribed conserved non-coding elements (TCNEs)** </font>
+<font face = "Times New Roman" size = 5> **A tailored identification framework to depict the landscape of transcribed conserved non-coding elements (TCNEs)** </font>
 
 ## Requirement
 <font face = "Times New Roman" size = 4> ***To use the current release*** </font>
