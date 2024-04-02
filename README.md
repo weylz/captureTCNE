@@ -23,7 +23,7 @@
 </font>
 
 ## Usage
-<font face = "Times New Roman" size = 4> ***Try this program locally:*** </font>
+<font face = "Times New Roman" size = 4> ***Try this program locally*** </font>
 
 ```shell
 $ git clone https://github.com/weylz/captureTCNE.git
@@ -53,7 +53,7 @@ $ captureTCNE.sh -h
 #     -v    The version of this tool.
 ```
 
-<font face = "Times New Roman" size = 4> ***An example:***</font>
+<font face = "Times New Roman" size = 4> ***An example***</font>
 ```shell
 $ cd ./examples/
 $ directory_workspace=$(pwd)
