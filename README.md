@@ -1,4 +1,4 @@
-![The workflow of captureTCNE](workflow.png)
+![The workflow of captureTCNE](workflow.svg)
 
 ----------
 - <font face = "Times New Roman" size = 4> ***[captureTCNE](#capturetcne)*** </font>
@@ -73,8 +73,8 @@ $ captureTCNE.sh -g BRCA -r $directory_workspace/REFERENCE/filtered_CNEs_BRCA.be
 ```
 
 ## Citation
-<font face = "Times New Roman" size = 3> [Wenyong Zhu et al. Dissecting the emerging regulatory and mechanistic paradigms of transcribed conserved non-coding elements in breast cancer. *Under review*.](https://www.researchgate.net/profile/Wenyong-Zhu/publications) **Watch this space!** </font>
+<font face = "Times New Roman" size = 3> [Wenyong Zhu et al. Dissecting the emerging regulatory and mechanistic paradigms of transcribed conserved non-coding elements in breast cancer. *Biomolecules*. 2025; 15(5):627](https://doi.org/10.3390/biom15050627)</font>
 
 
 
-<font face = "Times New Roman" size = 2> ***Copyright © 2024 Wenyong Zhu et al. All Rights Reserved.*** </font>
+<font face = "Times New Roman" size = 2> ***Copyright © 2025 Wenyong Zhu et al. All Rights Reserved.*** </font>
