@@ -19,7 +19,7 @@
 4. Python 3.6 or later;
 5. stringTie 2.2.0;
 6. BEDTools suite 2.30.0;
-7. Jim Kent's executable programms: http://hgdownload.cse.ucsc.edu/admin/exe/;
+7. Jim Kent's executable programs: http://hgdownload.cse.ucsc.edu/admin/exe/;
 </font>
 
 ## Usage
